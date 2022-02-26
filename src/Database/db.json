@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "name": "Ali Raza",
+      "username": "Creative",
+      "email": "Developer@demo.com",
+      "City": "Lahore",
+      "PhoneNo": 123,
+      "id": 1
+    },
+    {
+      "name": "Ahmad",
+      "username": "Raza",
+      "eamil": "",
+      "City": "lahore",
+      "PhoneNo": "0123456789",
+      "email": "ahmad.12748g@gmail.com",
+      "id": 2
+    },
+    {
+      "name": "Hassan",
+      "username": "Gammer",
+      "eamil": "",
+      "City": "Lahore",
+      "PhoneNo": "23133333",
+      "email": "Hassan@gmail.com",
+      "id": 3
+    },
+    {
+      "name": "Zohaib",
+      "username": "Ehsan",
+      "eamil": "",
+      "City": "lahore",
+      "PhoneNo": "20081333",
+      "email": "Zohaibehsan@gmail.com",
+      "id": 4
+    },
+    {
+      "name": "Junaid",
+      "username": "Ehsan",
+      "eamil": "",
+      "City": "lahore",
+      "PhoneNo": "009907999",
+      "email": "Junaid@gmail.com",
+      "id": 5
+    }
+  ]
+}
